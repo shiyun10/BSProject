@@ -7,8 +7,6 @@ target
 .settings
 .project
 /.gitignore
-/baws-core/baws-core.iml
-/baws-interface/baws-interface.iml
-/baws-soa/baws-soa.iml
-/baws-web/baws-web.iml
-/baws.iml
+/BSProject/WebConsole.iml
+/BSProject/BS-interface.iml
+/BSP.iml
